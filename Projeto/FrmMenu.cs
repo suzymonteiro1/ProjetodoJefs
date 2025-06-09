@@ -23,12 +23,6 @@ namespace Projeto
             frm.Show();
         }
 
-        private void cadastroDeFuncionariosToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            FrmFuncionario frm = new FrmFuncionario();
-            frm.Show();
-        }
-
         private void sairToolStripMenuItem_Click(object sender, EventArgs e)
         {
             Close();
@@ -43,6 +37,12 @@ namespace Projeto
         private void loginParaFuncionáriosToolStripMenuItem_Click(object sender, EventArgs e)
         {
             FrmLoginFuncionario frm = new FrmLoginFuncionario();
+            frm.Show();
+        }
+
+        private void cadastrarProdutoToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            CadastrarProdutos frm = new CadastrarProdutos();
             frm.Show();
         }
     }
