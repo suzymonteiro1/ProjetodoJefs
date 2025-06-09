@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aluno\\Desktop\\xd\\ProjetoJfs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|c:\\users\\aluno\\desktop\\xd\\projetojfs\\projeto\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|solutionrelative:projeto\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|c:\\users\\aluno\\desktop\\xd\\projetojfs\\projeto\\frmloginfuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|solutionrelative:projeto\\frmloginfuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|c:\\users\\aluno\\desktop\\xd\\projetojfs\\projeto\\frmlogincliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|solutionrelative:projeto\\frmlogincliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|c:\\users\\aluno\\desktop\\xd\\projetojfs\\projeto\\frmfuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|solutionrelative:projeto\\frmfuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|c:\\users\\aluno\\desktop\\xd\\projetojfs\\projeto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|solutionrelative:projeto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmMenu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\aluno\\Desktop\\xd\\ProjetoJfs\\Projeto\\FrmMenu.cs",
+              "RelativeDocumentMoniker": "Projeto\\FrmMenu.cs",
+              "ToolTip": "C:\\Users\\aluno\\Desktop\\xd\\ProjetoJfs\\Projeto\\FrmMenu.cs [Design]",
+              "RelativeToolTip": "Projeto\\FrmMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T17:17:21.984Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmLoginFuncionario.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\aluno\\Desktop\\xd\\ProjetoJfs\\Projeto\\FrmLoginFuncionario.cs",
+              "RelativeDocumentMoniker": "Projeto\\FrmLoginFuncionario.cs",
+              "ToolTip": "C:\\Users\\aluno\\Desktop\\xd\\ProjetoJfs\\Projeto\\FrmLoginFuncionario.cs [Design]",
+              "RelativeToolTip": "Projeto\\FrmLoginFuncionario.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T17:17:19.012Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmLoginCliente.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\aluno\\Desktop\\xd\\ProjetoJfs\\Projeto\\FrmLoginCliente.cs",
+              "RelativeDocumentMoniker": "Projeto\\FrmLoginCliente.cs",
+              "ToolTip": "C:\\Users\\aluno\\Desktop\\xd\\ProjetoJfs\\Projeto\\FrmLoginCliente.cs [Design]",
+              "RelativeToolTip": "Projeto\\FrmLoginCliente.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T17:17:16.814Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmFuncionario.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\aluno\\Desktop\\xd\\ProjetoJfs\\Projeto\\FrmFuncionario.cs",
+              "RelativeDocumentMoniker": "Projeto\\FrmFuncionario.cs",
+              "ToolTip": "C:\\Users\\aluno\\Desktop\\xd\\ProjetoJfs\\Projeto\\FrmFuncionario.cs [Design]",
+              "RelativeToolTip": "Projeto\\FrmFuncionario.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T17:17:12.266Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\aluno\\Desktop\\xd\\ProjetoJfs\\Projeto\\Form1.cs",
+              "RelativeDocumentMoniker": "Projeto\\Form1.cs",
+              "ToolTip": "C:\\Users\\aluno\\Desktop\\xd\\ProjetoJfs\\Projeto\\Form1.cs [Design]",
+              "RelativeToolTip": "Projeto\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T17:17:09.702Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
