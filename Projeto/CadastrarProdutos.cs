@@ -4,10 +4,12 @@ using System.ComponentModel;
 using System.Data;
 using System.Drawing;
 using System.Linq;
+using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using DLL_do_SQL;
+using MySql.Data.MySqlClient;
 
 namespace Projeto
 {
@@ -102,9 +104,33 @@ namespace Projeto
                 MessageBox.Show("O campo 'Profundidade' deve conter um número válido.");
                 return;
             }
+        }
 
-            // Após validar e converter todos os campos, você pode salvar o produto no banco de dados
-            // Exemplo: SalvarProduto(produtos);
+            public string Adicionar(Produtos produtos)
+        {
+            var sql = "INSERT INTO Produtos (nome, descricao, valor, categoria, estoque, peso, largura, altura, profundidade) VALUES" +
+                " (@nome, @descricao, @valor, @categoria, @estoque, @peso, @largura, @altura, @profundidade) ";
+
+            MySqlConnection con = new MySqlConnection();
+            con.Open();
+
+            MySqlCommand cmd = new MySqlCommand(sql, con);
+            { 
+            cmd.Parameters.AddWithValue("@nome", produtos.Nome);
+            cmd.Parameters.AddWithValue("@descricao", produtos.Descricao);
+            cmd.Parameters.AddWithValue("@valor", produtos.Valor);
+            cmd.Parameters.AddWithValue("@categoria", produtos.Categoria);
+            cmd.Parameters.AddWithValue("@estoque", produtos.Estoque);
+            cmd.Parameters.AddWithValue("@peso", produtos.Peso);
+            cmd.Parameters.AddWithValue("@largura", produtos.Largura);
+            cmd.Parameters.AddWithValue("@altura", produtos.Altura);
+            cmd.Parameters.AddWithValue("@profundidade", produtos.Profundidade);
+
+            cmd.ExecuteNonQuery();
+
+                return "ok";
+            }
+    }
         }
     }
-    }
+   
