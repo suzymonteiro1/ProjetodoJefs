@@ -22,14 +22,13 @@ namespace Projeto
 
         private void BtnCadastrar_Click(object sender, EventArgs e)
         {
-            Produtos produtos = new Produtos();
+            Produtos produtos = new Produtos
+            {
+                Id = 0,
+                Nome = TxtNome.Text,
+                Descricao = TxtDescricao.Text
+            };
 
-            // Atribuir valores corretamente
-            produtos.Id = 0; // Se for necessário, ajuste isso conforme sua lógica
-            produtos.Nome = TxtNome.Text;
-            produtos.Descricao = TxtDescricao.Text;
-
-            // Converter para decimal
             if (decimal.TryParse(TxtValor.Text, out decimal valor))
             {
                 produtos.Valor = valor;
@@ -42,7 +41,6 @@ namespace Projeto
 
             produtos.Categoria = CmbCategoria.Text;
 
-            // Converter para int
             if (int.TryParse(TxtEstoque.Text, out int estoque))
             {
                 produtos.Estoque = estoque;
@@ -53,10 +51,9 @@ namespace Projeto
                 return;
             }
 
-            // Converter para DateOnly
             try
             {
-                produtos.DataCadastro = DateTime.Parse(TxtDataCadastro.Text);
+                produtos.DataCadastro = DateTime.Parse(MskDataCadastro.Text);
             }
             catch (FormatException)
             {
@@ -64,7 +61,6 @@ namespace Projeto
                 return;
             }
 
-            // Converter para decimal (peso, largura, altura, profundidade)
             if (decimal.TryParse(TxtPeso.Text, out decimal peso))
             {
                 produtos.Peso = peso;
@@ -104,6 +100,7 @@ namespace Projeto
                 MessageBox.Show("O campo 'Profundidade' deve conter um número válido.");
                 return;
             }
+
         }
 
             public string Adicionar(Produtos produtos)

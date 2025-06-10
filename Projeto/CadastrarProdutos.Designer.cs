@@ -31,7 +31,6 @@
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(CadastrarProdutos));
             this.TxtDescricao = new System.Windows.Forms.TextBox();
             this.TxtAltura = new System.Windows.Forms.TextBox();
-            this.TxtDataCadastro = new System.Windows.Forms.TextBox();
             this.TxtEstoque = new System.Windows.Forms.TextBox();
             this.TxtPeso = new System.Windows.Forms.TextBox();
             this.TxtId = new System.Windows.Forms.TextBox();
@@ -53,6 +52,7 @@
             this.label11 = new System.Windows.Forms.Label();
             this.TxtValor = new System.Windows.Forms.TextBox();
             this.TxtLargura = new System.Windows.Forms.TextBox();
+            this.MskDataCadastro = new System.Windows.Forms.MaskedTextBox();
             this.SuspendLayout();
             // 
             // TxtDescricao
@@ -74,15 +74,6 @@
             this.TxtAltura.Size = new System.Drawing.Size(100, 20);
             this.TxtAltura.TabIndex = 9;
             this.TxtAltura.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            // 
-            // TxtDataCadastro
-            // 
-            this.TxtDataCadastro.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.TxtDataCadastro.Location = new System.Drawing.Point(220, 331);
-            this.TxtDataCadastro.MaxLength = 50;
-            this.TxtDataCadastro.Name = "TxtDataCadastro";
-            this.TxtDataCadastro.Size = new System.Drawing.Size(121, 20);
-            this.TxtDataCadastro.TabIndex = 6;
             // 
             // TxtEstoque
             // 
@@ -246,7 +237,7 @@
             this.BtnCadastrar.Name = "BtnCadastrar";
             this.BtnCadastrar.Padding = new System.Windows.Forms.Padding(10, 0, 10, 0);
             this.BtnCadastrar.Size = new System.Drawing.Size(140, 62);
-            this.BtnCadastrar.TabIndex = 32;
+            this.BtnCadastrar.TabIndex = 11;
             this.BtnCadastrar.Text = "&Cadastrar";
             this.BtnCadastrar.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.BtnCadastrar.UseVisualStyleBackColor = false;
@@ -287,8 +278,12 @@
             this.CmbCategoria.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.CmbCategoria.FormattingEnabled = true;
             this.CmbCategoria.Items.AddRange(new object[] {
-            "Feminino",
-            "Masculino"});
+            "Vestuário",
+            "Calçados",
+            "Equipamentos",
+            "Acessórios",
+            "Treino e Fitness",
+            "Suplementos"});
             this.CmbCategoria.Location = new System.Drawing.Point(221, 255);
             this.CmbCategoria.Name = "CmbCategoria";
             this.CmbCategoria.Size = new System.Drawing.Size(121, 21);
@@ -346,6 +341,15 @@
             this.TxtLargura.TabIndex = 8;
             this.TxtLargura.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
+            // MskDataCadastro
+            // 
+            this.MskDataCadastro.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.MskDataCadastro.Location = new System.Drawing.Point(221, 331);
+            this.MskDataCadastro.Mask = "00/00/0000";
+            this.MskDataCadastro.Name = "MskDataCadastro";
+            this.MskDataCadastro.Size = new System.Drawing.Size(120, 20);
+            this.MskDataCadastro.TabIndex = 6;
+            // 
             // CadastrarProdutos
             // 
             this.AcceptButton = this.BtnCadastrar;
@@ -354,13 +358,13 @@
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.MskDataCadastro);
             this.Controls.Add(this.TxtNome);
             this.Controls.Add(this.CmbCategoria);
             this.Controls.Add(this.TxtDescricao);
             this.Controls.Add(this.TxtProfundidade);
             this.Controls.Add(this.TxtLargura);
             this.Controls.Add(this.TxtAltura);
-            this.Controls.Add(this.TxtDataCadastro);
             this.Controls.Add(this.TxtValor);
             this.Controls.Add(this.TxtEstoque);
             this.Controls.Add(this.TxtPeso);
@@ -409,6 +413,6 @@
         private System.Windows.Forms.Label label11;
         private System.Windows.Forms.TextBox TxtValor;
         private System.Windows.Forms.TextBox TxtLargura;
-        private System.Windows.Forms.TextBox TxtDataCadastro;
+        private System.Windows.Forms.MaskedTextBox MskDataCadastro;
     }
 }
