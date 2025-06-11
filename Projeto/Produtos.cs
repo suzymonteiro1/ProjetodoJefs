@@ -4,9 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
-using Projeto;
 
-namespace DLL_do_SQL
+namespace Projeto
 {
     public class Produtos
     {
@@ -22,6 +21,17 @@ namespace DLL_do_SQL
             public decimal Altura { get; set; }
             public decimal Profundidade { get; set; }
 
+        private ProdutosContext _produtosContext = new ProdutosContext();
+
+        public string Adicionar()
+        {
+            var result = Validar();
+            if (result == "ok")
+                return _produtosContext.Adicionar(this);
+            else
+                return result;
+        }
+
         public string Validar()
         {
             string result = "";
@@ -30,28 +40,29 @@ namespace DLL_do_SQL
                 result += "Informe o nome do produto.";
 
             if (string.IsNullOrWhiteSpace(Descricao))
-                result += "\nInforme a marca do produto.";
+                result += "\nInforme a descrição do produto.";
 
             if (string.IsNullOrWhiteSpace(Valor.ToString()))
-                result += "\nInforme o fabricante do produto.";
+                result += "\nInforme o valor do produto.";
 
             if (string.IsNullOrWhiteSpace(Categoria))
-                result += "\nInforme o sabor do produto.";
+                result += "\nInforme a categoria do produto.";
 
             if (string.IsNullOrWhiteSpace(Estoque.ToString()))
                 result += "\nInforme a unidade do produto.";
 
-            if (Validador.DataValidar(DataCadastro.ToString()))
-                result += "\nA data de validade do produto é inválida.";
+            var dataCadastro = DataCadastro.ToString();
+            if (dataCadastro == "01/01/0001" || !Validador.DataValidar(dataCadastro))
+                result += "\nData de cadastro do produto é inválido";
 
             if (string.IsNullOrWhiteSpace(Largura.ToString()))
-                result += "\nInforme a quantidade em estoque do produto, pode ser zero.";
+                result += "\nInforme a largura do produto";
 
             if (string.IsNullOrWhiteSpace(Altura.ToString()))
-                result += "\nInforme a quantidade em estoque do produto, pode ser zero.";
+                result += "\nInforme a altura do produto";
 
             if (string.IsNullOrWhiteSpace(Profundidade.ToString()))
-                result += "\nInforme a quantidade em estoque do produto, pode ser zero.";
+                result += "\nInforme a profundidade do produto";
 
             return result == "" ? "ok" : result;
         }

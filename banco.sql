@@ -1,5 +1,5 @@
-CREATE DATABASE login_db;
-USE login_db;
+CREATE DATABASE Esportes;
+USE Esportes;
 
 CREATE TABLE usuarios (
     id INT AUTO_INCREMENT PRIMARY KEY,
@@ -251,7 +251,5 @@ INSERT INTO Produtos (nome, descricao, valor, categoria, estoque, peso, largura,
 
 INSERT INTO usuarios (email, senha) VALUES
 ('teste@email.com', '123456');
-
-select * from usuarios;
 
 SELECT * FROM Produtos;

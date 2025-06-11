@@ -5,6 +5,7 @@ using System.Media;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Globalization;
 
 namespace Projeto
 {
@@ -17,14 +18,19 @@ namespace Projeto
                 email.Contains(".");
         }
 
-        public static bool DataValidar(string data, string formato = "00/00/0000")
+        public static bool DataValidar(string data, string formato = "dd/MM/yyyy")
         {
+            if (string.IsNullOrWhiteSpace(data))
+                return false;
+
+            DateTime resultado;
             return DateTime.TryParseExact(
                 data,
                 formato,
-                System.Globalization.CultureInfo.InvariantCulture,
-                System.Globalization.DateTimeStyles.None,
-                out _);
+                CultureInfo.InvariantCulture,
+                DateTimeStyles.None,
+                out resultado
+            );
         }
     }
 }

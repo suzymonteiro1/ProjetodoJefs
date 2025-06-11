@@ -99,7 +99,7 @@
             this.TxtId.Location = new System.Drawing.Point(222, 120);
             this.TxtId.MaxLength = 6;
             this.TxtId.Name = "TxtId";
-            this.TxtId.Size = new System.Drawing.Size(100, 20);
+            this.TxtId.Size = new System.Drawing.Size(56, 20);
             this.TxtId.TabIndex = 0;
             this.TxtId.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
@@ -285,6 +285,7 @@
             "Treino e Fitness",
             "Suplementos"});
             this.CmbCategoria.Location = new System.Drawing.Point(221, 255);
+            this.CmbCategoria.MaxLength = 50;
             this.CmbCategoria.Name = "CmbCategoria";
             this.CmbCategoria.Size = new System.Drawing.Size(121, 21);
             this.CmbCategoria.TabIndex = 4;
@@ -293,8 +294,9 @@
             // 
             this.TxtNome.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.TxtNome.Location = new System.Drawing.Point(222, 152);
+            this.TxtNome.MaxLength = 100;
             this.TxtNome.Name = "TxtNome";
-            this.TxtNome.Size = new System.Drawing.Size(100, 20);
+            this.TxtNome.Size = new System.Drawing.Size(385, 20);
             this.TxtNome.TabIndex = 1;
             // 
             // TxtProfundidade

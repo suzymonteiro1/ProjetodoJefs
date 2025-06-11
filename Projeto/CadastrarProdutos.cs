@@ -15,6 +15,8 @@ namespace Projeto
 {
     public partial class CadastrarProdutos : Form
     {
+
+        Produtos _produtos = new Produtos();
         public CadastrarProdutos()
         {
             InitializeComponent();
@@ -22,88 +24,31 @@ namespace Projeto
 
         private void BtnCadastrar_Click(object sender, EventArgs e)
         {
-            Produtos produtos = new Produtos
-            {
-                Id = 0,
-                Nome = TxtNome.Text,
-                Descricao = TxtDescricao.Text
-            };
+            _produtos.Id = 0;
+            _produtos.Nome = TxtNome.Text;
+            _produtos.Descricao = TxtDescricao.Text;
+            _produtos.Valor = decimal.Parse("0" + TxtValor.Text);
+            _produtos.Categoria = CmbCategoria.Text;
+            _produtos.Estoque = int.Parse("0" + TxtEstoque.Text);
+            _produtos.Peso = decimal.Parse("0" + TxtPeso.Text);
+            _produtos.Largura = decimal.Parse("0" + TxtLargura.Text);
+            _produtos.Altura = decimal.Parse("0" + TxtAltura.Text);
+            _produtos.Profundidade = decimal.Parse("0" + TxtProfundidade.Text);
 
-            if (decimal.TryParse(TxtValor.Text, out decimal valor))
-            {
-                produtos.Valor = valor;
-            }
+            if (Validador.DataValidar(MskDataCadastro.Text))
+                _produtos.DataCadastro = DateTime.Parse(MskDataCadastro.Text);
+
+            var result = _produtos.Adicionar();
+            if (result == "ok")
+                MessageBox.Show("Salvo com sucesso");
+
             else
-            {
-                MessageBox.Show("O campo 'Valor' deve conter um número válido.");
-                return;
-            }
-
-            produtos.Categoria = CmbCategoria.Text;
-
-            if (int.TryParse(TxtEstoque.Text, out int estoque))
-            {
-                produtos.Estoque = estoque;
-            }
-            else
-            {
-                MessageBox.Show("O campo 'Estoque' deve conter um número inteiro válido.");
-                return;
-            }
-
-            try
-            {
-                produtos.DataCadastro = DateTime.Parse(MskDataCadastro.Text);
-            }
-            catch (FormatException)
-            {
-                MessageBox.Show("O campo 'Data de Cadastro' deve conter uma data válida.");
-                return;
-            }
-
-            if (decimal.TryParse(TxtPeso.Text, out decimal peso))
-            {
-                produtos.Peso = peso;
-            }
-            else
-            {
-                MessageBox.Show("O campo 'Peso' deve conter um número válido.");
-                return;
-            }
-
-            if (decimal.TryParse(TxtLargura.Text, out decimal largura))
-            {
-                produtos.Largura = largura;
-            }
-            else
-            {
-                MessageBox.Show("O campo 'Largura' deve conter um número válido.");
-                return;
-            }
-
-            if (decimal.TryParse(TxtAltura.Text, out decimal altura))
-            {
-                produtos.Altura = altura;
-            }
-            else
-            {
-                MessageBox.Show("O campo 'Altura' deve conter um número válido.");
-                return;
-            }
-
-            if (decimal.TryParse(TxtProfundidade.Text, out decimal profundidade))
-            {
-                produtos.Profundidade = profundidade;
-            }
-            else
-            {
-                MessageBox.Show("O campo 'Profundidade' deve conter um número válido.");
-                return;
-            }
+                MessageBox.Show("Falha" + result);
+        }
 
         }
 
-            public string Adicionar(Produtos produtos)
+            /*public string Adicionar(Produtos produtos)
         {
             var sql = "INSERT INTO Produtos (nome, descricao, valor, categoria, estoque, peso, largura, altura, profundidade) VALUES" +
                 " (@nome, @descricao, @valor, @categoria, @estoque, @peso, @largura, @altura, @profundidade) ";
@@ -113,7 +58,7 @@ namespace Projeto
 
             MySqlCommand cmd = new MySqlCommand(sql, con);
             { 
-            cmd.Parameters.AddWithValue("@nome", produtos.Nome);
+            cmd.Parameters.AddWithValue("@nome", _produtos.Nome);
             cmd.Parameters.AddWithValue("@descricao", produtos.Descricao);
             cmd.Parameters.AddWithValue("@valor", produtos.Valor);
             cmd.Parameters.AddWithValue("@categoria", produtos.Categoria);
@@ -128,6 +73,6 @@ namespace Projeto
                 return "ok";
             }
     }
-        }
+        }*/
     }
    

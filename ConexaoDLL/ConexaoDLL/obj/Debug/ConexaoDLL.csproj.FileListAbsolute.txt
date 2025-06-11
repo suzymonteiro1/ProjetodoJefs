@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\ConexaoDLL\ConexaoDLL\bin\Debug\ConexaoDLL.dll
+C:\Users\User\source\repos\ConexaoDLL\ConexaoDLL\bin\Debug\ConexaoDLL.pdb
+C:\Users\User\source\repos\ConexaoDLL\ConexaoDLL\obj\Debug\ConexaoDLL.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ConexaoDLL\ConexaoDLL\obj\Debug\ConexaoDLL.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConexaoDLL\ConexaoDLL\obj\Debug\ConexaoDLL.dll
+C:\Users\User\source\repos\ConexaoDLL\ConexaoDLL\obj\Debug\ConexaoDLL.pdb

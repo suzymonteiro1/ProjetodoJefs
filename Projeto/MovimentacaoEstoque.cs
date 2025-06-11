@@ -6,15 +6,15 @@ using System.Threading.Tasks;
 
 namespace Projeto
 {
-    internal class MovimentacaoEstoque
+    public class MovimentacaoEstoque
     {
-        public int id { get; set; }
+        public int Id { get; set; }
 
         public int ProdutoId { get; set; }
 
         public DateTime DataMovimento { get; set; }
 
-        public int quantidade { get; set; }
+        public int Quantidade { get; set; }
 
         public char EntradaSaida { get; set; } // E=entrada S=saída
 
