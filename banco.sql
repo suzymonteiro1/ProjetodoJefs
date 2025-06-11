@@ -21,6 +21,4 @@ CREATE TABLE Produtos (
     profundidade DECIMAL(6,2)
 );
 
-DROP TABLE PRODUTOS;
-
-SELECT * FROM Produtos;
+select * from Produtos;

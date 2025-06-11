@@ -157,3 +157,4 @@ C:\Users\User\Desktop\xd\ProjetodoJefs\Projeto\obj\Debug\Projeto.exe
 C:\Users\User\Desktop\xd\ProjetodoJefs\Projeto\obj\Debug\Projeto.pdb
 C:\Users\aluno\Desktop\xd\ProjetodoJefs\Projeto\bin\Debug\DLLEsportes.dll
 C:\Users\aluno\Desktop\xd\ProjetodoJefs\Projeto\bin\Debug\DLLEsportes.pdb
+C:\Users\aluno\Desktop\xd\ProjetodoJefs\Projeto\obj\Debug\Projeto.exe.config

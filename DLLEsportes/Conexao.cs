@@ -11,7 +11,7 @@ namespace DLLEsportes
         private static string _server = "localhost";
         private static string _dataBase = "Esportes";
         private static string _user = "root";
-        private static string _password = "";
+        private static string _password = "root";
 
         public static string StrConn
         {

@@ -16,7 +16,7 @@ namespace Projeto
             var sql = "INSERT INTO Produtos (nome, descricao, valor, categoria, estoque, peso, largura, altura, profundidade) VALUES" +
                 " (@nome, @descricao, @valor, @categoria, @estoque, @peso, @largura, @altura, @profundidade) ";
 
-            MySqlConnection con = new MySqlConnection();
+            MySqlConnection con = new MySqlConnection(_con);
             con.Open();
 
             MySqlCommand cmd = new MySqlCommand(sql, con);
