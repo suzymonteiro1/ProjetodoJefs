@@ -36,7 +36,6 @@
             this.TxtId = new System.Windows.Forms.TextBox();
             this.label8 = new System.Windows.Forms.Label();
             this.label10 = new System.Windows.Forms.Label();
-            this.label9 = new System.Windows.Forms.Label();
             this.label7 = new System.Windows.Forms.Label();
             this.label6 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
@@ -52,7 +51,6 @@
             this.label11 = new System.Windows.Forms.Label();
             this.TxtValor = new System.Windows.Forms.TextBox();
             this.TxtLargura = new System.Windows.Forms.TextBox();
-            this.MskDataCadastro = new System.Windows.Forms.MaskedTextBox();
             this.SuspendLayout();
             // 
             // TxtDescricao
@@ -81,7 +79,7 @@
             this.TxtEstoque.Location = new System.Drawing.Point(220, 294);
             this.TxtEstoque.MaxLength = 50;
             this.TxtEstoque.Name = "TxtEstoque";
-            this.TxtEstoque.Size = new System.Drawing.Size(121, 20);
+            this.TxtEstoque.Size = new System.Drawing.Size(85, 20);
             this.TxtEstoque.TabIndex = 5;
             // 
             // TxtPeso
@@ -128,19 +126,6 @@
             this.label10.Size = new System.Drawing.Size(45, 17);
             this.label10.TabIndex = 46;
             this.label10.Text = "Altura";
-            // 
-            // label9
-            // 
-            this.label9.AutoSize = true;
-            this.label9.BackColor = System.Drawing.Color.Transparent;
-            this.label9.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label9.ForeColor = System.Drawing.Color.White;
-            this.label9.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
-            this.label9.Location = new System.Drawing.Point(93, 331);
-            this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(119, 17);
-            this.label9.TabIndex = 43;
-            this.label9.Text = "Data do Cadastro";
             // 
             // label7
             // 
@@ -303,11 +288,11 @@
             // 
             this.TxtProfundidade.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.TxtProfundidade.CharacterCasing = System.Windows.Forms.CharacterCasing.Upper;
-            this.TxtProfundidade.Location = new System.Drawing.Point(507, 330);
+            this.TxtProfundidade.Location = new System.Drawing.Point(220, 329);
             this.TxtProfundidade.MaxLength = 2;
             this.TxtProfundidade.Name = "TxtProfundidade";
             this.TxtProfundidade.Size = new System.Drawing.Size(100, 20);
-            this.TxtProfundidade.TabIndex = 10;
+            this.TxtProfundidade.TabIndex = 6;
             this.TxtProfundidade.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // label11
@@ -317,7 +302,7 @@
             this.label11.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label11.ForeColor = System.Drawing.Color.White;
             this.label11.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
-            this.label11.Location = new System.Drawing.Point(404, 331);
+            this.label11.Location = new System.Drawing.Point(119, 330);
             this.label11.Name = "label11";
             this.label11.Size = new System.Drawing.Size(93, 17);
             this.label11.TabIndex = 46;
@@ -329,7 +314,7 @@
             this.TxtValor.Location = new System.Drawing.Point(220, 220);
             this.TxtValor.MaxLength = 50;
             this.TxtValor.Name = "TxtValor";
-            this.TxtValor.Size = new System.Drawing.Size(121, 20);
+            this.TxtValor.Size = new System.Drawing.Size(85, 20);
             this.TxtValor.TabIndex = 3;
             // 
             // TxtLargura
@@ -343,15 +328,6 @@
             this.TxtLargura.TabIndex = 8;
             this.TxtLargura.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
-            // MskDataCadastro
-            // 
-            this.MskDataCadastro.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.MskDataCadastro.Location = new System.Drawing.Point(221, 331);
-            this.MskDataCadastro.Mask = "00/00/0000";
-            this.MskDataCadastro.Name = "MskDataCadastro";
-            this.MskDataCadastro.Size = new System.Drawing.Size(120, 20);
-            this.MskDataCadastro.TabIndex = 6;
-            // 
             // CadastrarProdutos
             // 
             this.AcceptButton = this.BtnCadastrar;
@@ -360,7 +336,6 @@
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.MskDataCadastro);
             this.Controls.Add(this.TxtNome);
             this.Controls.Add(this.CmbCategoria);
             this.Controls.Add(this.TxtDescricao);
@@ -374,7 +349,6 @@
             this.Controls.Add(this.label8);
             this.Controls.Add(this.label11);
             this.Controls.Add(this.label10);
-            this.Controls.Add(this.label9);
             this.Controls.Add(this.label7);
             this.Controls.Add(this.label6);
             this.Controls.Add(this.label5);
@@ -399,7 +373,6 @@
         private System.Windows.Forms.TextBox TxtId;
         private System.Windows.Forms.Label label8;
         private System.Windows.Forms.Label label10;
-        private System.Windows.Forms.Label label9;
         private System.Windows.Forms.Label label7;
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.Label label5;
@@ -415,6 +388,5 @@
         private System.Windows.Forms.Label label11;
         private System.Windows.Forms.TextBox TxtValor;
         private System.Windows.Forms.TextBox TxtLargura;
-        private System.Windows.Forms.MaskedTextBox MskDataCadastro;
     }
 }

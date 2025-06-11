@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
+using DLLEsportes;
 
 namespace Projeto
 {
@@ -15,7 +16,7 @@ namespace Projeto
             public decimal Valor { get; set; }
             public string Categoria { get; set; }
             public int Estoque { get; set; }
-            public DateTime DataCadastro { get; set; }
+            public string DataCadastro { get; set; }
             public decimal Peso { get; set; }
             public decimal Largura { get; set; }
             public decimal Altura { get; set; }
@@ -50,10 +51,6 @@ namespace Projeto
 
             if (string.IsNullOrWhiteSpace(Estoque.ToString()))
                 result += "\nInforme a unidade do produto.";
-
-            var dataCadastro = DataCadastro.ToString();
-            if (dataCadastro == "01/01/0001" || !Validador.DataValidar(dataCadastro))
-                result += "\nData de cadastro do produto é inválido";
 
             if (string.IsNullOrWhiteSpace(Largura.ToString()))
                 result += "\nInforme a largura do produto";

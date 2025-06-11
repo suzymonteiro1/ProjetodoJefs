@@ -9,6 +9,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using MySql.Data.MySqlClient;
+using DLLEsportes;
 
 namespace Projeto
 {
@@ -33,9 +34,7 @@ namespace Projeto
             _produtos.Largura = decimal.Parse("0" + TxtLargura.Text);
             _produtos.Altura = decimal.Parse("0" + TxtAltura.Text);
             _produtos.Profundidade = decimal.Parse("0" + TxtProfundidade.Text);
-
-            if (Validador.DataValidar(MskDataCadastro.Text))
-                _produtos.DataCadastro = DateTime.Parse(MskDataCadastro.Text);
+            
 
             var result = _produtos.Adicionar();
             if (result == "ok")

@@ -6,6 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Globalization;
+using DLLEsportes;
 
 namespace Projeto
 {
@@ -16,21 +17,6 @@ namespace Projeto
             return !string.IsNullOrWhiteSpace(email) &&
                 email.Contains("@") &&
                 email.Contains(".");
-        }
-
-        public static bool DataValidar(string data, string formato = "dd/MM/yyyy")
-        {
-            if (string.IsNullOrWhiteSpace(data))
-                return false;
-
-            DateTime resultado;
-            return DateTime.TryParseExact(
-                data,
-                formato,
-                CultureInfo.InvariantCulture,
-                DateTimeStyles.None,
-                out resultado
-            );
         }
     }
 }
