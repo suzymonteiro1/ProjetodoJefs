@@ -64,7 +64,6 @@ C:\Users\Aluno\Desktop\xd\ProjetodoJefs\Projeto\bin\Debug\Projeto.exe.config
 C:\Users\Aluno\Desktop\xd\ProjetodoJefs\Projeto\bin\Debug\Projeto.exe
 C:\Users\Aluno\Desktop\xd\ProjetodoJefs\Projeto\bin\Debug\Projeto.pdb
 C:\Users\Aluno\Desktop\xd\ProjetodoJefs\Projeto\bin\Debug\BouncyCastle.Cryptography.dll
-C:\Users\Aluno\Desktop\xd\ProjetodoJefs\Projeto\bin\Debug\DLLBanco.dll
 C:\Users\Aluno\Desktop\xd\ProjetodoJefs\Projeto\bin\Debug\Google.Protobuf.dll
 C:\Users\Aluno\Desktop\xd\ProjetodoJefs\Projeto\bin\Debug\K4os.Compression.LZ4.dll
 C:\Users\Aluno\Desktop\xd\ProjetodoJefs\Projeto\bin\Debug\K4os.Compression.LZ4.Streams.dll

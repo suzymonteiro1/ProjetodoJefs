@@ -4,12 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using MySql.Data.MySqlClient;
+using ConexaoDLL;
 
 namespace Projeto
 {
     public class ProdutosContext
     {
-        private readonly string _con = 
+        private readonly string _con = Conexao.StrConn;
         public string Adicionar(Produtos produto)
         {
             var sql = "INSERT INTO Produtos (nome, descricao, valor, categoria, estoque, peso, largura, altura, profundidade) VALUES" +
