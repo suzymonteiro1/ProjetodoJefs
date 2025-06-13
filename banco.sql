@@ -1,10 +1,26 @@
 CREATE DATABASE Esportes;
 USE Esportes;
 
-CREATE TABLE usuarios (
+CREATE TABLE Cliente (
     id INT AUTO_INCREMENT PRIMARY KEY,
+    nome VARCHAR(100) NOT NULL,
+    cpf char(11) NOT NULL,
+    bairro VARCHAR(70) NOT NULL,
+    cidade VARCHAR(70) NOT NULL,
+    estado VARCHAR(70) NOT NULL,
     email VARCHAR(100) NOT NULL,
-    senha VARCHAR(100) NOT NULL
+    senha VARCHAR(20) NOT NULL
+);
+
+CREATE TABLE Funcionario (
+	id INT AUTO_INCREMENT PRIMARY KEY,
+    nome VARCHAR(100) NOT NULL,
+    cpf char(11) NOT NULL,
+    bairro VARCHAR(70) NOT NULL,
+    cidade VARCHAR(30) NOT NULL,
+    estado VARCHAR(30) NOT NULL,
+    email VARCHAR(100) NOT NULL,
+    senha VARCHAR(20) NOT NULL
 );
 
 CREATE TABLE Produtos (

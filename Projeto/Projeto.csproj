@@ -104,6 +104,14 @@
     <Compile Include="CadastrarProdutos.Designer.cs">
       <DependentUpon>CadastrarProdutos.cs</DependentUpon>
     </Compile>
+    <Compile Include="CadastroCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CadastroCliente.Designer.cs">
+      <DependentUpon>CadastroCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Clientes.cs" />
+    <Compile Include="ClientesContext.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -136,6 +144,9 @@
     <Compile Include="Validador.cs" />
     <EmbeddedResource Include="CadastrarProdutos.resx">
       <DependentUpon>CadastrarProdutos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CadastroCliente.resx">
+      <DependentUpon>CadastroCliente.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>

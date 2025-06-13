@@ -20,7 +20,7 @@ namespace Projeto
 
         private void cadastroDeClientesToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            Form1 frm = new Form1();
+            CadastroCliente frm = new CadastroCliente();
             frm.Show();
         }
 

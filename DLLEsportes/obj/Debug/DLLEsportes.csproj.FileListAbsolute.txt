@@ -4,3 +4,9 @@ C:\Users\aluno\Desktop\xd\ProjetodoJefs\DLLEsportes\obj\Debug\DLLEsportes.csproj
 C:\Users\aluno\Desktop\xd\ProjetodoJefs\DLLEsportes\obj\Debug\DLLEsportes.csproj.CoreCompileInputs.cache
 C:\Users\aluno\Desktop\xd\ProjetodoJefs\DLLEsportes\obj\Debug\DLLEsportes.dll
 C:\Users\aluno\Desktop\xd\ProjetodoJefs\DLLEsportes\obj\Debug\DLLEsportes.pdb
+C:\Users\Tecnico\Desktop\xd\ProjetodoJefs\DLLEsportes\bin\Debug\DLLEsportes.dll
+C:\Users\Tecnico\Desktop\xd\ProjetodoJefs\DLLEsportes\bin\Debug\DLLEsportes.pdb
+C:\Users\Tecnico\Desktop\xd\ProjetodoJefs\DLLEsportes\obj\Debug\DLLEsportes.csproj.AssemblyReference.cache
+C:\Users\Tecnico\Desktop\xd\ProjetodoJefs\DLLEsportes\obj\Debug\DLLEsportes.csproj.CoreCompileInputs.cache
+C:\Users\Tecnico\Desktop\xd\ProjetodoJefs\DLLEsportes\obj\Debug\DLLEsportes.dll
+C:\Users\Tecnico\Desktop\xd\ProjetodoJefs\DLLEsportes\obj\Debug\DLLEsportes.pdb

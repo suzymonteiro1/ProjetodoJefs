@@ -45,32 +45,5 @@ namespace Projeto
         }
 
         }
-
-            /*public string Adicionar(Produtos produtos)
-        {
-            var sql = "INSERT INTO Produtos (nome, descricao, valor, categoria, estoque, peso, largura, altura, profundidade) VALUES" +
-                " (@nome, @descricao, @valor, @categoria, @estoque, @peso, @largura, @altura, @profundidade) ";
-
-            MySqlConnection con = new MySqlConnection();
-            con.Open();
-
-            MySqlCommand cmd = new MySqlCommand(sql, con);
-            { 
-            cmd.Parameters.AddWithValue("@nome", _produtos.Nome);
-            cmd.Parameters.AddWithValue("@descricao", produtos.Descricao);
-            cmd.Parameters.AddWithValue("@valor", produtos.Valor);
-            cmd.Parameters.AddWithValue("@categoria", produtos.Categoria);
-            cmd.Parameters.AddWithValue("@estoque", produtos.Estoque);
-            cmd.Parameters.AddWithValue("@peso", produtos.Peso);
-            cmd.Parameters.AddWithValue("@largura", produtos.Largura);
-            cmd.Parameters.AddWithValue("@altura", produtos.Altura);
-            cmd.Parameters.AddWithValue("@profundidade", produtos.Profundidade);
-
-            cmd.ExecuteNonQuery();
-
-                return "ok";
-            }
-    }
-        }*/
     }
    
