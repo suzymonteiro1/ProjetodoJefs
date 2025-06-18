@@ -1,121 +1,121 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\TI\\ProjetodoJefs\\",
+  "WorkspaceRootPath": "C:\\Users\\Aluno\\Desktop\\xd\\ProjetodoJefs\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|c:\\users\\ti\\projetodojefs\\projeto\\visualizarproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|solutionrelative:projeto\\visualizarproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|c:\\users\\ti\\projetodojefs\\projeto\\visualizarproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|solutionrelative:projeto\\visualizarproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|C:\\Users\\TI\\ProjetodoJefs\\projeto\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|solutionrelative:projeto\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|C:\\Users\\TI\\ProjetodoJefs\\projeto\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|solutionrelative:projeto\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|C:\\Users\\TI\\ProjetodoJefs\\projeto\\movimentacaoestoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|solutionrelative:projeto\\movimentacaoestoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|c:\\users\\ti\\projetodojefs\\projeto\\funcionariocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|C:\\Users\\Aluno\\Desktop\\xd\\ProjetodoJefs\\projeto\\funcionariocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|solutionrelative:projeto\\funcionariocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|C:\\Users\\TI\\ProjetodoJefs\\projeto\\produtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|solutionrelative:projeto\\produtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|C:\\Users\\TI\\ProjetodoJefs\\projeto\\produtoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|solutionrelative:projeto\\produtoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|C:\\Users\\TI\\ProjetodoJefs\\projeto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|solutionrelative:projeto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|C:\\Users\\TI\\ProjetodoJefs\\projeto\\validador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|solutionrelative:projeto\\validador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|c:\\users\\ti\\projetodojefs\\projeto\\cadastrocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|solutionrelative:projeto\\cadastrocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|c:\\users\\ti\\projetodojefs\\projeto\\cadastrarprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|solutionrelative:projeto\\cadastrarprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|C:\\Users\\TI\\ProjetodoJefs\\projeto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|solutionrelative:projeto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|C:\\Users\\TI\\ProjetodoJefs\\projeto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|solutionrelative:projeto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|C:\\Users\\TI\\ProjetodoJefs\\projeto\\frmlogincliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|solutionrelative:projeto\\frmlogincliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|C:\\Users\\TI\\ProjetodoJefs\\projeto\\frmloginfuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|solutionrelative:projeto\\frmloginfuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|c:\\users\\ti\\projetodojefs\\projeto\\frmmenu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|solutionrelative:projeto\\frmmenu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|c:\\users\\ti\\projetodojefs\\projeto\\visualizarproduto.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|solutionrelative:projeto\\visualizarproduto.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|C:\\Users\\TI\\ProjetodoJefs\\projeto\\cadastrocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|solutionrelative:projeto\\cadastrocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|c:\\users\\ti\\projetodojefs\\projeto\\cadastrarfuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|solutionrelative:projeto\\cadastrarfuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|c:\\users\\ti\\projetodojefs\\projeto\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|C:\\Users\\Aluno\\Desktop\\xd\\ProjetodoJefs\\projeto\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|solutionrelative:projeto\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|c:\\users\\ti\\projetodojefs\\projeto\\clientescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|C:\\Users\\Aluno\\Desktop\\xd\\ProjetodoJefs\\projeto\\clientescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|solutionrelative:projeto\\clientescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|C:\\Users\\TI\\ProjetodoJefs\\projeto\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|C:\\Users\\Aluno\\Desktop\\xd\\ProjetodoJefs\\projeto\\cadastrocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|solutionrelative:projeto\\cadastrocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|C:\\Users\\Aluno\\Desktop\\xd\\ProjetodoJefs\\projeto\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|solutionrelative:projeto\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|c:\\users\\aluno\\desktop\\xd\\projetodojefs\\projeto\\visualizarproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|solutionrelative:projeto\\visualizarproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|C:\\Users\\Aluno\\Desktop\\xd\\ProjetodoJefs\\projeto\\produtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|solutionrelative:projeto\\produtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|C:\\Users\\Aluno\\Desktop\\xd\\ProjetodoJefs\\projeto\\produtoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|solutionrelative:projeto\\produtoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|C:\\Users\\Aluno\\Desktop\\xd\\ProjetodoJefs\\projeto\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|solutionrelative:projeto\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|C:\\Users\\TI\\ProjetodoJefs\\projeto\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|solutionrelative:projeto\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|C:\\Users\\Aluno\\Desktop\\xd\\ProjetodoJefs\\projeto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|solutionrelative:projeto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|C:\\Users\\TI\\ProjetodoJefs\\projeto\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|solutionrelative:projeto\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|C:\\Users\\TI\\ProjetodoJefs\\projeto\\cadastrarprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|solutionrelative:projeto\\cadastrarprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6642BF4-5276-4EA5-AA50-BB262A3A28AC}|DLLEsportes\\DLLEsportes.csproj|C:\\Users\\TI\\ProjetodoJefs\\dllesportes\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E6642BF4-5276-4EA5-AA50-BB262A3A28AC}|DLLEsportes\\DLLEsportes.csproj|C:\\Users\\Aluno\\Desktop\\xd\\ProjetodoJefs\\dllesportes\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E6642BF4-5276-4EA5-AA50-BB262A3A28AC}|DLLEsportes\\DLLEsportes.csproj|solutionrelative:dllesportes\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|C:\\Users\\TI\\ProjetodoJefs\\projeto\\frmlogincliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|C:\\Users\\Aluno\\Desktop\\xd\\ProjetodoJefs\\projeto\\validador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|solutionrelative:projeto\\validador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|C:\\Users\\Aluno\\Desktop\\xd\\ProjetodoJefs\\projeto\\visualizarproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|solutionrelative:projeto\\visualizarproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|C:\\Users\\Aluno\\Desktop\\xd\\ProjetodoJefs\\projeto\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|solutionrelative:projeto\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|C:\\Users\\Aluno\\Desktop\\xd\\ProjetodoJefs\\projeto\\movimentacaoestoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|solutionrelative:projeto\\movimentacaoestoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|C:\\Users\\Aluno\\Desktop\\xd\\ProjetodoJefs\\projeto\\cadastrarprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|solutionrelative:projeto\\cadastrarprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|C:\\Users\\Aluno\\Desktop\\xd\\ProjetodoJefs\\projeto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|solutionrelative:projeto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|C:\\Users\\Aluno\\Desktop\\xd\\ProjetodoJefs\\projeto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|solutionrelative:projeto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|C:\\Users\\Aluno\\Desktop\\xd\\ProjetodoJefs\\projeto\\frmlogincliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|solutionrelative:projeto\\frmlogincliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|C:\\Users\\Aluno\\Desktop\\xd\\ProjetodoJefs\\projeto\\frmloginfuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|solutionrelative:projeto\\frmloginfuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|C:\\Users\\Aluno\\Desktop\\xd\\ProjetodoJefs\\projeto\\frmmenu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|solutionrelative:projeto\\frmmenu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|C:\\Users\\Aluno\\Desktop\\xd\\ProjetodoJefs\\projeto\\visualizarproduto.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|solutionrelative:projeto\\visualizarproduto.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|C:\\Users\\Aluno\\Desktop\\xd\\ProjetodoJefs\\projeto\\cadastrocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|solutionrelative:projeto\\cadastrocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|C:\\Users\\Aluno\\Desktop\\xd\\ProjetodoJefs\\projeto\\cadastrarfuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|solutionrelative:projeto\\cadastrarfuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|C:\\Users\\Aluno\\Desktop\\xd\\ProjetodoJefs\\projeto\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|solutionrelative:projeto\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|C:\\Users\\Aluno\\Desktop\\xd\\ProjetodoJefs\\projeto\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|solutionrelative:projeto\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|C:\\Users\\Aluno\\Desktop\\xd\\ProjetodoJefs\\projeto\\cadastrarprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|solutionrelative:projeto\\cadastrarprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|C:\\Users\\Aluno\\Desktop\\xd\\ProjetodoJefs\\projeto\\frmlogincliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|solutionrelative:projeto\\frmlogincliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|C:\\Users\\TI\\ProjetodoJefs\\projeto\\frmloginfuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|C:\\Users\\Aluno\\Desktop\\xd\\ProjetodoJefs\\projeto\\frmloginfuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF7E185A-1340-4A99-BA9E-751F931E49AF}|Projeto\\Projeto.csproj|solutionrelative:projeto\\frmloginfuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -126,130 +126,157 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "FuncionarioContext.cs",
-              "DocumentMoniker": "C:\\Users\\TI\\ProjetodoJefs\\Projeto\\FuncionarioContext.cs",
-              "RelativeDocumentMoniker": "Projeto\\FuncionarioContext.cs",
-              "ToolTip": "C:\\Users\\TI\\ProjetodoJefs\\Projeto\\FuncionarioContext.cs",
-              "RelativeToolTip": "Projeto\\FuncionarioContext.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCYAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "Conexao.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\xd\\ProjetodoJefs\\DLLEsportes\\Conexao.cs",
+              "RelativeDocumentMoniker": "DLLEsportes\\Conexao.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\xd\\ProjetodoJefs\\DLLEsportes\\Conexao.cs",
+              "RelativeToolTip": "DLLEsportes\\Conexao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T23:56:00.568Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MovimentacaoEstoque.cs",
-              "DocumentMoniker": "C:\\Users\\TI\\ProjetodoJefs\\Projeto\\MovimentacaoEstoque.cs",
-              "RelativeDocumentMoniker": "Projeto\\MovimentacaoEstoque.cs",
-              "ToolTip": "C:\\Users\\TI\\ProjetodoJefs\\Projeto\\MovimentacaoEstoque.cs",
-              "RelativeToolTip": "Projeto\\MovimentacaoEstoque.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAgwAUAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T19:42:12.473Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FrmMenu.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\TI\\ProjetodoJefs\\Projeto\\FrmMenu.cs",
-              "RelativeDocumentMoniker": "Projeto\\FrmMenu.cs",
-              "ToolTip": "C:\\Users\\TI\\ProjetodoJefs\\Projeto\\FrmMenu.cs [Design]",
-              "RelativeToolTip": "Projeto\\FrmMenu.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T17:17:21.984Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FrmMenu.cs",
-              "DocumentMoniker": "C:\\Users\\TI\\ProjetodoJefs\\Projeto\\FrmMenu.cs",
-              "RelativeDocumentMoniker": "Projeto\\FrmMenu.cs",
-              "ToolTip": "C:\\Users\\TI\\ProjetodoJefs\\Projeto\\FrmMenu.cs",
-              "RelativeToolTip": "Projeto\\FrmMenu.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAtwDQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T19:54:11.228Z",
+              "WhenOpened": "2025-06-11T17:53:25.536Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "VisualizarProduto.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\TI\\ProjetodoJefs\\Projeto\\VisualizarProduto.cs",
-              "RelativeDocumentMoniker": "Projeto\\VisualizarProduto.cs",
-              "ToolTip": "C:\\Users\\TI\\ProjetodoJefs\\Projeto\\VisualizarProduto.cs [Design]",
-              "RelativeToolTip": "Projeto\\VisualizarProduto.cs [Design]",
+              "Title": "Funcionario.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\xd\\ProjetodoJefs\\Projeto\\Funcionario.cs",
+              "RelativeDocumentMoniker": "Projeto\\Funcionario.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\xd\\ProjetodoJefs\\Projeto\\Funcionario.cs",
+              "RelativeToolTip": "Projeto\\Funcionario.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA5wBMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T01:43:35.061Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "VisualizarProduto.cs",
-              "DocumentMoniker": "C:\\Users\\TI\\ProjetodoJefs\\Projeto\\VisualizarProduto.cs",
-              "RelativeDocumentMoniker": "Projeto\\VisualizarProduto.cs",
-              "ToolTip": "C:\\Users\\TI\\ProjetodoJefs\\Projeto\\VisualizarProduto.cs",
-              "RelativeToolTip": "Projeto\\VisualizarProduto.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABsAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T01:44:20.238Z",
+              "WhenOpened": "2025-06-17T23:55:33.168Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Produtos.cs",
-              "DocumentMoniker": "C:\\Users\\TI\\ProjetodoJefs\\Projeto\\Produtos.cs",
-              "RelativeDocumentMoniker": "Projeto\\Produtos.cs",
-              "ToolTip": "C:\\Users\\TI\\ProjetodoJefs\\Projeto\\Produtos.cs",
-              "RelativeToolTip": "Projeto\\Produtos.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAowB0AAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T19:35:07.054Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ProdutosContext.cs",
-              "DocumentMoniker": "C:\\Users\\TI\\ProjetodoJefs\\Projeto\\ProdutosContext.cs",
-              "RelativeDocumentMoniker": "Projeto\\ProdutosContext.cs",
-              "ToolTip": "C:\\Users\\TI\\ProjetodoJefs\\Projeto\\ProdutosContext.cs",
-              "RelativeToolTip": "Projeto\\ProdutosContext.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAowAgAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T16:47:32.416Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\TI\\ProjetodoJefs\\Projeto\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\xd\\ProjetodoJefs\\Projeto\\Program.cs",
               "RelativeDocumentMoniker": "Projeto\\Program.cs",
-              "ToolTip": "C:\\Users\\TI\\ProjetodoJefs\\Projeto\\Program.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\xd\\ProjetodoJefs\\Projeto\\Program.cs",
               "RelativeToolTip": "Projeto\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAA1wA4AAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwA4AAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-10T17:50:25.303Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
+              "Title": "Clientes.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\xd\\ProjetodoJefs\\Projeto\\Clientes.cs",
+              "RelativeDocumentMoniker": "Projeto\\Clientes.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\xd\\ProjetodoJefs\\Projeto\\Clientes.cs",
+              "RelativeToolTip": "Projeto\\Clientes.cs",
+              "ViewState": "AgIAABUAAACAqIIUVZAiwCwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T20:29:41.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClientesContext.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\xd\\ProjetodoJefs\\Projeto\\ClientesContext.cs",
+              "RelativeDocumentMoniker": "Projeto\\ClientesContext.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\xd\\ProjetodoJefs\\Projeto\\ClientesContext.cs",
+              "RelativeToolTip": "Projeto\\ClientesContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwB8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T20:31:07.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Produtos.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\xd\\ProjetodoJefs\\Projeto\\Produtos.cs",
+              "RelativeDocumentMoniker": "Projeto\\Produtos.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\xd\\ProjetodoJefs\\Projeto\\Produtos.cs",
+              "RelativeToolTip": "Projeto\\Produtos.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T19:35:07.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmMenu.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\xd\\ProjetodoJefs\\Projeto\\FrmMenu.cs",
+              "RelativeDocumentMoniker": "Projeto\\FrmMenu.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\xd\\ProjetodoJefs\\Projeto\\FrmMenu.cs",
+              "RelativeToolTip": "Projeto\\FrmMenu.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAQwCUAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T19:54:11.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CadastroCliente.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\xd\\ProjetodoJefs\\Projeto\\CadastroCliente.cs",
+              "RelativeDocumentMoniker": "Projeto\\CadastroCliente.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\xd\\ProjetodoJefs\\Projeto\\CadastroCliente.cs [Design]",
+              "RelativeToolTip": "Projeto\\CadastroCliente.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T01:26:22.826Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FuncionarioContext.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\xd\\ProjetodoJefs\\Projeto\\FuncionarioContext.cs",
+              "RelativeDocumentMoniker": "Projeto\\FuncionarioContext.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\xd\\ProjetodoJefs\\Projeto\\FuncionarioContext.cs",
+              "RelativeToolTip": "Projeto\\FuncionarioContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T23:56:00.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProdutosContext.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\xd\\ProjetodoJefs\\Projeto\\ProdutosContext.cs",
+              "RelativeDocumentMoniker": "Projeto\\ProdutosContext.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\xd\\ProjetodoJefs\\Projeto\\ProdutosContext.cs",
+              "RelativeToolTip": "Projeto\\ProdutosContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwBAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T16:47:32.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VisualizarProduto.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\xd\\ProjetodoJefs\\Projeto\\VisualizarProduto.cs",
+              "RelativeDocumentMoniker": "Projeto\\VisualizarProduto.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\xd\\ProjetodoJefs\\Projeto\\VisualizarProduto.cs",
+              "RelativeToolTip": "Projeto\\VisualizarProduto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T01:44:20.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Validador.cs",
-              "DocumentMoniker": "C:\\Users\\TI\\ProjetodoJefs\\Projeto\\Validador.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\xd\\ProjetodoJefs\\Projeto\\Validador.cs",
               "RelativeDocumentMoniker": "Projeto\\Validador.cs",
-              "ToolTip": "C:\\Users\\TI\\ProjetodoJefs\\Projeto\\Validador.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\xd\\ProjetodoJefs\\Projeto\\Validador.cs",
               "RelativeToolTip": "Projeto\\Validador.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAgwAgAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -258,84 +285,103 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "CadastroCliente.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\TI\\ProjetodoJefs\\Projeto\\CadastroCliente.cs",
-              "RelativeDocumentMoniker": "Projeto\\CadastroCliente.cs",
-              "ToolTip": "C:\\Users\\TI\\ProjetodoJefs\\Projeto\\CadastroCliente.cs [Design]",
-              "RelativeToolTip": "Projeto\\CadastroCliente.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T01:26:22.826Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "CadastrarProdutos.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\TI\\ProjetodoJefs\\Projeto\\CadastrarProdutos.cs",
-              "RelativeDocumentMoniker": "Projeto\\CadastrarProdutos.cs",
-              "ToolTip": "C:\\Users\\TI\\ProjetodoJefs\\Projeto\\CadastrarProdutos.cs [Design]",
-              "RelativeToolTip": "Projeto\\CadastrarProdutos.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T02:21:49.027Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "FrmLoginCliente.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\TI\\ProjetodoJefs\\Projeto\\FrmLoginCliente.cs",
-              "RelativeDocumentMoniker": "Projeto\\FrmLoginCliente.cs",
-              "ToolTip": "C:\\Users\\TI\\ProjetodoJefs\\Projeto\\FrmLoginCliente.cs [Design]",
-              "RelativeToolTip": "Projeto\\FrmLoginCliente.cs [Design]",
+              "Title": "MovimentacaoEstoque.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\xd\\ProjetodoJefs\\Projeto\\MovimentacaoEstoque.cs",
+              "RelativeDocumentMoniker": "Projeto\\MovimentacaoEstoque.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\xd\\ProjetodoJefs\\Projeto\\MovimentacaoEstoque.cs",
+              "RelativeToolTip": "Projeto\\MovimentacaoEstoque.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwAUAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T17:17:16.814Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-06-09T19:42:12.473Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "FrmLoginFuncionario.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\TI\\ProjetodoJefs\\Projeto\\FrmLoginFuncionario.cs",
-              "RelativeDocumentMoniker": "Projeto\\FrmLoginFuncionario.cs",
-              "ToolTip": "C:\\Users\\TI\\ProjetodoJefs\\Projeto\\FrmLoginFuncionario.cs [Design]",
-              "RelativeToolTip": "Projeto\\FrmLoginFuncionario.cs [Design]",
+              "DocumentIndex": 12,
+              "Title": "VisualizarProduto.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\xd\\ProjetodoJefs\\Projeto\\VisualizarProduto.cs",
+              "RelativeDocumentMoniker": "Projeto\\VisualizarProduto.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\xd\\ProjetodoJefs\\Projeto\\VisualizarProduto.cs [Design]",
+              "RelativeToolTip": "Projeto\\VisualizarProduto.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T17:17:19.012Z",
+              "WhenOpened": "2025-06-18T01:43:35.061Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\TI\\ProjetodoJefs\\Projeto\\Form1.cs",
-              "RelativeDocumentMoniker": "Projeto\\Form1.cs",
-              "ToolTip": "C:\\Users\\TI\\ProjetodoJefs\\Projeto\\Form1.cs [Design]",
-              "RelativeToolTip": "Projeto\\Form1.cs [Design]",
+              "Title": "FrmMenu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\xd\\ProjetodoJefs\\Projeto\\FrmMenu.cs",
+              "RelativeDocumentMoniker": "Projeto\\FrmMenu.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\xd\\ProjetodoJefs\\Projeto\\FrmMenu.cs [Design]",
+              "RelativeToolTip": "Projeto\\FrmMenu.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T17:17:09.702Z",
+              "WhenOpened": "2025-06-09T17:17:21.984Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\TI\\ProjetodoJefs\\Projeto\\Form1.cs",
-              "RelativeDocumentMoniker": "Projeto\\Form1.cs",
-              "ToolTip": "C:\\Users\\TI\\ProjetodoJefs\\Projeto\\Form1.cs",
-              "RelativeToolTip": "Projeto\\Form1.cs",
-              "ViewState": "AgIAAA8AAADQaJYazdI0wBEAAAAiAAAAAAAAAA==",
+              "DocumentIndex": 15,
+              "Title": "CadastrarProdutos.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\xd\\ProjetodoJefs\\Projeto\\CadastrarProdutos.cs",
+              "RelativeDocumentMoniker": "Projeto\\CadastrarProdutos.cs",
+              "ToolTip": "C:\\Users\\TI\\ProjetodoJefs\\Projeto\\CadastrarProdutos.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\TI\\ProjetodoJefs\\Projeto\\CadastrarProdutos.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T17:41:51.569Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T02:21:49.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FrmLoginCliente.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\xd\\ProjetodoJefs\\Projeto\\FrmLoginCliente.cs",
+              "RelativeDocumentMoniker": "Projeto\\FrmLoginCliente.cs",
+              "ToolTip": "C:\\Users\\TI\\ProjetodoJefs\\Projeto\\FrmLoginCliente.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\TI\\ProjetodoJefs\\Projeto\\FrmLoginCliente.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T17:17:16.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FrmLoginFuncionario.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\xd\\ProjetodoJefs\\Projeto\\FrmLoginFuncionario.cs",
+              "RelativeDocumentMoniker": "Projeto\\FrmLoginFuncionario.cs",
+              "ToolTip": "C:\\Users\\TI\\ProjetodoJefs\\Projeto\\FrmLoginFuncionario.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\TI\\ProjetodoJefs\\Projeto\\FrmLoginFuncionario.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T17:17:19.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\xd\\ProjetodoJefs\\Projeto\\Form1.cs",
+              "RelativeDocumentMoniker": "Projeto\\Form1.cs",
+              "ToolTip": "C:\\Users\\TI\\ProjetodoJefs\\Projeto\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\TI\\ProjetodoJefs\\Projeto\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T17:17:09.702Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\xd\\ProjetodoJefs\\Projeto\\Form1.cs",
+              "RelativeDocumentMoniker": "Projeto\\Form1.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\xd\\ProjetodoJefs\\Projeto\\Form1.cs",
+              "RelativeToolTip": "Projeto\\Form1.cs",
+              "ViewState": "AgIAAA8AAADQaJYazdI0wBEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T17:41:51.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "FrmMenu.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\TI\\ProjetodoJefs\\Projeto\\FrmMenu.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\xd\\ProjetodoJefs\\Projeto\\FrmMenu.Designer.cs",
               "RelativeDocumentMoniker": "Projeto\\FrmMenu.Designer.cs",
-              "ToolTip": "C:\\Users\\TI\\ProjetodoJefs\\Projeto\\FrmMenu.Designer.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\xd\\ProjetodoJefs\\Projeto\\FrmMenu.Designer.cs",
               "RelativeToolTip": "Projeto\\FrmMenu.Designer.cs",
               "ViewState": "AgIAAKsAAAAADPCEAZ4MwB0AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -344,63 +390,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 21,
               "Title": "VisualizarProduto.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\TI\\ProjetodoJefs\\Projeto\\VisualizarProduto.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\xd\\ProjetodoJefs\\Projeto\\VisualizarProduto.Designer.cs",
               "RelativeDocumentMoniker": "Projeto\\VisualizarProduto.Designer.cs",
-              "ToolTip": "C:\\Users\\TI\\ProjetodoJefs\\Projeto\\VisualizarProduto.Designer.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\xd\\ProjetodoJefs\\Projeto\\VisualizarProduto.Designer.cs",
               "RelativeToolTip": "Projeto\\VisualizarProduto.Designer.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAgwCcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T01:43:41.432Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T01:43:41.432Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Funcionario.cs",
-              "DocumentMoniker": "C:\\Users\\TI\\ProjetodoJefs\\Projeto\\Funcionario.cs",
-              "RelativeDocumentMoniker": "Projeto\\Funcionario.cs",
-              "ToolTip": "C:\\Users\\TI\\ProjetodoJefs\\Projeto\\Funcionario.cs",
-              "RelativeToolTip": "Projeto\\Funcionario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAABGAAAAAAAAAA==",
+              "DocumentIndex": 23,
+              "Title": "CadastrarFuncionario.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\xd\\ProjetodoJefs\\Projeto\\CadastrarFuncionario.cs",
+              "RelativeDocumentMoniker": "Projeto\\CadastrarFuncionario.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\xd\\ProjetodoJefs\\Projeto\\CadastrarFuncionario.cs",
+              "RelativeToolTip": "Projeto\\CadastrarFuncionario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T23:55:33.168Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-17T23:54:03.587Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 22,
-              "Title": "Clientes.cs",
-              "DocumentMoniker": "C:\\Users\\TI\\ProjetodoJefs\\Projeto\\Clientes.cs",
-              "RelativeDocumentMoniker": "Projeto\\Clientes.cs",
-              "ToolTip": "C:\\Users\\TI\\ProjetodoJefs\\Projeto\\Clientes.cs",
-              "RelativeToolTip": "Projeto\\Clientes.cs",
-              "ViewState": "AgIAADkAAACAqIIUVZAgwAgAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T20:29:41.997Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "CadastrarFuncionario.cs",
-              "DocumentMoniker": "C:\\Users\\TI\\ProjetodoJefs\\Projeto\\CadastrarFuncionario.cs",
-              "RelativeDocumentMoniker": "Projeto\\CadastrarFuncionario.cs",
-              "ToolTip": "C:\\Users\\TI\\ProjetodoJefs\\Projeto\\CadastrarFuncionario.cs",
-              "RelativeToolTip": "Projeto\\CadastrarFuncionario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T23:54:03.587Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
               "Title": "CadastroCliente.cs",
-              "DocumentMoniker": "C:\\Users\\TI\\ProjetodoJefs\\Projeto\\CadastroCliente.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\xd\\ProjetodoJefs\\Projeto\\CadastroCliente.cs",
               "RelativeDocumentMoniker": "Projeto\\CadastroCliente.cs",
-              "ToolTip": "C:\\Users\\TI\\ProjetodoJefs\\Projeto\\CadastroCliente.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\xd\\ProjetodoJefs\\Projeto\\CadastroCliente.cs",
               "RelativeToolTip": "Projeto\\CadastroCliente.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAQwA0AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -409,93 +427,63 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "ClientesContext.cs",
-              "DocumentMoniker": "C:\\Users\\TI\\ProjetodoJefs\\Projeto\\ClientesContext.cs",
-              "RelativeDocumentMoniker": "Projeto\\ClientesContext.cs",
-              "ToolTip": "C:\\Users\\TI\\ProjetodoJefs\\Projeto\\ClientesContext.cs",
-              "RelativeToolTip": "Projeto\\ClientesContext.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAowB0AAABKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T20:31:07.907Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "packages.config",
-              "DocumentMoniker": "C:\\Users\\TI\\ProjetodoJefs\\Projeto\\packages.config",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\xd\\ProjetodoJefs\\Projeto\\packages.config",
               "RelativeDocumentMoniker": "Projeto\\packages.config",
-              "ToolTip": "C:\\Users\\TI\\ProjetodoJefs\\Projeto\\packages.config",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\xd\\ProjetodoJefs\\Projeto\\packages.config",
               "RelativeToolTip": "Projeto\\packages.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-06-11T17:45:57.473Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "App.config",
-              "DocumentMoniker": "C:\\Users\\TI\\ProjetodoJefs\\Projeto\\App.config",
-              "RelativeDocumentMoniker": "Projeto\\App.config",
-              "ToolTip": "C:\\Users\\TI\\ProjetodoJefs\\Projeto\\App.config",
-              "RelativeToolTip": "Projeto\\App.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABNAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-06-11T17:46:11.552Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Conexao.cs",
-              "DocumentMoniker": "C:\\Users\\TI\\ProjetodoJefs\\DLLEsportes\\Conexao.cs",
-              "RelativeDocumentMoniker": "DLLEsportes\\Conexao.cs",
-              "ToolTip": "C:\\Users\\TI\\ProjetodoJefs\\DLLEsportes\\Conexao.cs",
-              "RelativeToolTip": "DLLEsportes\\Conexao.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T17:53:25.536Z"
+              "WhenOpened": "2025-06-11T17:45:57.473Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 25,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\xd\\ProjetodoJefs\\Projeto\\App.config",
+              "RelativeDocumentMoniker": "Projeto\\App.config",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\xd\\ProjetodoJefs\\Projeto\\App.config",
+              "RelativeToolTip": "Projeto\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-06-11T17:46:11.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
               "Title": "CadastrarProdutos.cs",
-              "DocumentMoniker": "C:\\Users\\TI\\ProjetodoJefs\\Projeto\\CadastrarProdutos.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\xd\\ProjetodoJefs\\Projeto\\CadastrarProdutos.cs",
               "RelativeDocumentMoniker": "Projeto\\CadastrarProdutos.cs",
-              "ToolTip": "C:\\Users\\TI\\ProjetodoJefs\\Projeto\\CadastrarProdutos.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\xd\\ProjetodoJefs\\Projeto\\CadastrarProdutos.cs",
               "RelativeToolTip": "Projeto\\CadastrarProdutos.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T20:25:58.535Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-09T20:25:58.535Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 27,
               "Title": "FrmLoginCliente.cs",
-              "DocumentMoniker": "C:\\Users\\TI\\ProjetodoJefs\\Projeto\\FrmLoginCliente.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\xd\\ProjetodoJefs\\Projeto\\FrmLoginCliente.cs",
               "RelativeDocumentMoniker": "Projeto\\FrmLoginCliente.cs",
-              "ToolTip": "C:\\Users\\TI\\ProjetodoJefs\\Projeto\\FrmLoginCliente.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\xd\\ProjetodoJefs\\Projeto\\FrmLoginCliente.cs",
               "RelativeToolTip": "Projeto\\FrmLoginCliente.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T20:40:30.932Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-09T20:40:30.932Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 28,
               "Title": "FrmLoginFuncionario.cs",
-              "DocumentMoniker": "C:\\Users\\TI\\ProjetodoJefs\\Projeto\\FrmLoginFuncionario.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\xd\\ProjetodoJefs\\Projeto\\FrmLoginFuncionario.cs",
               "RelativeDocumentMoniker": "Projeto\\FrmLoginFuncionario.cs",
-              "ToolTip": "C:\\Users\\TI\\ProjetodoJefs\\Projeto\\FrmLoginFuncionario.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\xd\\ProjetodoJefs\\Projeto\\FrmLoginFuncionario.cs",
               "RelativeToolTip": "Projeto\\FrmLoginFuncionario.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T17:42:07.531Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-11T17:42:07.531Z"
             }
           ]
         }

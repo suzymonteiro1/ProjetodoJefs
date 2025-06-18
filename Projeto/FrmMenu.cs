@@ -48,7 +48,8 @@ namespace Projeto
         }
         private void Visualizarprodutos_Click(object sender, EventArgs e)
         {
-            CarregarProdutos();
+            VisualizarProduto frm = new VisualizarProduto();
+            frm.Show();
         }
 
     }

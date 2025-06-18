@@ -258,3 +258,4 @@ C:\Users\TI\ProjetodoJefs\Projeto\obj\Debug\Projeto.csproj.CoreCompileInputs.cac
 C:\Users\TI\ProjetodoJefs\Projeto\obj\Debug\Projeto.csproj.Up2Date
 C:\Users\TI\ProjetodoJefs\Projeto\obj\Debug\Projeto.exe
 C:\Users\TI\ProjetodoJefs\Projeto\obj\Debug\Projeto.pdb
+C:\Users\Aluno\Desktop\xd\ProjetodoJefs\Projeto\obj\Debug\Projeto.CadastroCliente.resources

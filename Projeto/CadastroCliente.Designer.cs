@@ -56,7 +56,6 @@
             this.TxtNome.Name = "TxtNome";
             this.TxtNome.Size = new System.Drawing.Size(385, 20);
             this.TxtNome.TabIndex = 0;
-            this.TxtNome.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // label2
             // 
@@ -150,7 +149,7 @@
             // MskCpf
             // 
             this.MskCpf.Location = new System.Drawing.Point(222, 214);
-            this.MskCpf.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.MskCpf.Margin = new System.Windows.Forms.Padding(2);
             this.MskCpf.Mask = "000.000.000-00";
             this.MskCpf.Name = "MskCpf";
             this.MskCpf.Size = new System.Drawing.Size(83, 20);
@@ -268,7 +267,7 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.BtnCadastrar);
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "CadastroCliente";
             this.Text = "CadastroCliente";
             this.ResumeLayout(false);

@@ -13,7 +13,7 @@ namespace Projeto
             private readonly string _con = Conexao.StrConn;
             public string Adicionar(Clientes clientes)
             {
-                var sql = "INSERT INTO Produtos (nome, cpf, bairro, cidade, estado, email, senha) VALUES" +
+                var sql = "INSERT INTO Cliente (nome, cpf, bairro, cidade, estado, email, senha) VALUES" +
                     " (@nome, @cpf, @bairro, @cidade, @estado, @email, @senha) ";
 
                 MySqlConnection con = new MySqlConnection(_con);
