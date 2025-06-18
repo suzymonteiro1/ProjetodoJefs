@@ -46,5 +46,10 @@ namespace Projeto
             CadastrarProdutos frm = new CadastrarProdutos();
             frm.Show();
         }
+        private void Visualizarprodutos_Click(object sender, EventArgs e)
+        {
+            CarregarProdutos();
+        }
+
     }
 }
