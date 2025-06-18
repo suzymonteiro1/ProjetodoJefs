@@ -4,7 +4,7 @@ USE Esportes;
 CREATE TABLE Cliente (
     id INT AUTO_INCREMENT PRIMARY KEY,
     nome VARCHAR(100) NOT NULL,
-    cpf char(11) NOT NULL,
+    cpf VARCHAR(20) NOT NULL,
     bairro VARCHAR(70) NOT NULL,
     cidade VARCHAR(70) NOT NULL,
     estado VARCHAR(70) NOT NULL,
@@ -38,3 +38,4 @@ CREATE TABLE Produtos (
 );
 
 select * from Produtos;
+select * from Cliente;
